@@ -25,7 +25,7 @@ This Android project demonstrates example of Bottom Navigation, This project is 
 ---
 
 ### App Demo
-![AppDemo]([https://github.com/aman1sr/NestedRecyclerView_MultiViewType/blob/master/app/screenshot/nested%20RecView%20multiType%20gif.gif?raw=true](https://github.com/aman1sr/compose_bottom_nav/blob/main/app/src/main/res/drawable/compose_bottom_nav.gif?raw=true))
+![AppDemo](https://github.com/aman1sr/compose_bottom_nav/blob/main/app/src/main/res/drawable/compose_bottom_nav.gif?raw=true)
 
 ---
 ##  Article references:

@@ -29,7 +29,7 @@ This Android project demonstrates example of Bottom Navigation, This project is 
 <div align="center">
   <img src="https://github.com/aman1sr/compose_bottom_nav/blob/main/app/src/main/res/drawable/compose_bottom_nav.gif?raw=true" 
        alt="App Demo" 
-       style="max-width: 100%; height: auto; max-height: 500px; width: auto; display: block; margin: 0 auto;">
+       style="max-width: 100%; height: auto; max-height: 250px; width: auto; display: block; margin: 0 auto;">
 </div>
 
 ---

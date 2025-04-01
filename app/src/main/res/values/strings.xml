@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyComposeBottomNav</string>
+    <string name="nav_top_news">News</string>
+    <string name="nav_filter_news">Filter</string>
+    <string name="nav_saved_news">Saved</string>
+    <string name="nav_search_news">Search</string>
+
+</resources>

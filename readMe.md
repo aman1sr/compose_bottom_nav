@@ -5,6 +5,7 @@ This Android project demonstrates example of Bottom Navigation, This project is 
 [https://github.com/aman1sr/Compose-NewsApp](https://github.com/aman1sr/Compose-NewsApp)
 
 
+## Screenshots
 
 
 ![Sample GIF](https://content.gorillalogic.com/img/2021/03/Gif-6.gif)
@@ -25,7 +26,11 @@ This Android project demonstrates example of Bottom Navigation, This project is 
 ---
 
 ### App Demo
-![AppDemo](https://github.com/aman1sr/compose_bottom_nav/blob/main/app/src/main/res/drawable/compose_bottom_nav.gif?raw=true)
+<div align="center">
+  <img src="https://github.com/aman1sr/compose_bottom_nav/blob/main/app/src/main/res/drawable/compose_bottom_nav.gif?raw=true" 
+       alt="App Demo" 
+       style="max-width: 100%; height: auto; max-height: 500px; width: auto; display: block; margin: 0 auto;">
+</div>
 
 ---
 ##  Article references:
